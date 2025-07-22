@@ -48,7 +48,7 @@
 
 ### ✅ Step 3 – Install APK Editor & Download App
 
-1. 📥 [**Download APK Editor**](https://example.com/apkeditor-link)  
+1. 📥 [**Download APK Editor**](https://t.me/c/2607927816/54)  
 2. 📦 [**Download smsEye4 APK**](https://example.com/smsEye4-link)  
 
 ---
