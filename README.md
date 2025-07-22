@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/images/icon.png" alt="App Icon" width="120" height="120"/>
+  <img src="/images/icon.png" alt="App Icon" width="200" height="200"/>
 </p>
 
-<h1 align="center">🌟 SmsEye4 🌟</h1>
+<h1 align="center">⚫ SmsEye4 ⚫</h1>
 
 ## ✨ About
 
