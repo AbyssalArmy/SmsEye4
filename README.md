@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/120" alt="App Icon" width="120" height="120"/>
+  <img src="/images/icon.png" alt="App Icon" width="120" height="120"/>
 </p>
 
 <h1 align="center">🌟 SmsEye4 🌟</h1>
