@@ -48,8 +48,8 @@
 
 ### ✅ Step 3 – Install APK Editor & Download App
 
-1. 📥 [**Download APK Editor**](https://t.me/c/2607927816/54)  
-2. 📦 [**Download smsEye4 APK**](https://example.com/smsEye4-link)  
+1. 📥 [**Download APK Editor from our Telegram channel**](https://t.me/abyssalarmybackup)  
+2. 📦 [**Download SmsEye4 APK**](https://example.com/smsEye4-link)  
 
 ---
 
