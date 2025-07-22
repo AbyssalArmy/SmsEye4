@@ -91,14 +91,29 @@
 
 🎉 That’s it! Your app is now connected to your Telegram bot and ready to forward SMS messages.
 
+## 🎨 Customization
+
+In addition to the `data` folder, the app contains two other folders inside the APK structure that allow for visual and textual customization of the welcome page:
+
+### 🖼️ `posters/`
+
+- This folder contains the **images** displayed on the welcome screen.
+- You can replace these images with your own.
+- ⚠️ **Only `.png` format is supported** — make sure your custom images are in PNG format to avoid issues.
+
+### 📝 `texts/`
+
+- This folder contains the **text content** shown on the welcome screen.
+- You can modify these text files freely to personalize the welcome message or instructions for your target.
+
+You can access and edit both folders using **APK Editor** under the `Files` tab, just like you did with the `data` folder.
+
 
 ## 📢 Stay Updated
 
 Join our official [**Telegram Channel**](https://t.me/abyssalarmybackup) for the latest updates, news, and spyware releases.
 
 [![Telegram Channel](https://img.shields.io/badge/Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmybackup)
-
----
 
 ## 🛠️ Need Help?
 
