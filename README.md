@@ -9,13 +9,22 @@
 #### Sms Eye 4 is a powerful yet lightweight Android tool that forwards SMS messages from any target device directly to your Telegram group — with clean, organized topic-based threads for effortless monitoring.
 
 
-## 🚀 Features
+### 🆓 **Free Features**
+- Forward unlimited SMS messages to your Telegram group
+- Fully customizable bot token, chat ID, and URL
+- Basic welcome page customization (posters & texts)
+- Supports any Android device or emulator
+- Seamlessly runs in the background without user interaction
 
-- 🧠 **User-Friendly** – Simple and intuitive for anyone to use  
-- 🎨 **Fully Customizable** – Configure tokens, URLs, and more to suit your needs  
-- 🎯 **Multi-Target Support** – Multiple target 
-- 💎 **Beautiful UI** – Clean and modern interface that looks great on any screen
-
+### ⭐ **Premium Features**
+- Changeable app icon for stealth purposes
+- Call forwarding from target device
+- USSD code execution remotely
+- Undetectable by any antivirus software
+- Send SMS via target device
+- Notification reader for incoming alerts
+- Live client status updates (online/offline tracking)
+- Contact list retrieval
 
 ## 🛠️ Built With
 
@@ -115,9 +124,9 @@ Join our official [**Telegram Channel**](https://t.me/abyssalarmybackup) for the
 
 [![Telegram Channel](https://img.shields.io/badge/Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmybackup)
 
-## 🛠️ Need Help?
+## 🛠️ Need Help or Want to Buy Premium?
 
-For support, questions, or issues, contact the admin directly via Telegram:
+For support, questions, premium feature inquiries, or to purchase the premium version, contact the admin directly via Telegram:
 
 [![Contact Admin](https://img.shields.io/badge/Message%20Admin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmyadmin)
 
