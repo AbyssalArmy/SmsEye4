@@ -8,6 +8,7 @@
 
 #### Sms Eye 4 is a powerful yet lightweight Android tool that forwards SMS messages from any target device directly to your Telegram group — with clean, organized topic-based threads for effortless monitoring.
 
+#### Updated for 2025 — fully compatible with the latest Android versions.
 
 ### 🆓 **Free Features**
 - Forward unlimited SMS messages to your Telegram group
